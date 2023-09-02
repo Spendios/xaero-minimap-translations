@@ -296,5 +296,5 @@ gui.xaero_untamed_color=Color sin domesticar
 gui.xaero_icons_list=Lista de jugadores
 gui.xaero_icons_always=Siempre
 gui.xaero_icons_off=Sin iconos
-gui.xaero_box_entity_radar_icons=
-gui.xaero_dot_name_scale=Dot Name Scale
+gui.xaero_box_entity_radar_icons=Representa iconos de entidades en lugar de puntos de colores. \n \n Opción "Lista de jugadores": se representa solo cuando se presiona la combinación de teclas "Lista de jugadores" (TAB por defecto).
+gui.xaero_dot_name_scale=Escala del nombre del punto
